@@ -3,10 +3,6 @@
 <!-<h1 align="center">Hi 👋, I'm araa</h1>
 <h3 align="center">Curiosity-driven girl from Indonesia starting her journey in tech</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31c7jtjku3ard2n7rn7aznmwpuqe
 <img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enR3b3h3bThlNXB4ZnhzN2tvYXMwZzJjdncyMjZoaWdjbHhscTFheCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/VCTTGzLlSFLpogKvAy/giphy.gif"  />
 
 ###
