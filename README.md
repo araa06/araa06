@@ -6,6 +6,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
--
-**araa06/araa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31c7jtjku3ard2n7rn7aznmwpuqe
 
