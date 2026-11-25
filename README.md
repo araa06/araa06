@@ -13,4 +13,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120" alt="" />
 </p>
-https://github.com/araa06/araa06/blob/51eb6b0c3f0e9f78d2a7fab10f71788b3a70720b/WhatsApp%20Image%202026-11-20%20at%2010.37.27.png
